@@ -35,7 +35,7 @@ module.exports = {
 				{
 					name: "Why does (mod name) not work?",
 					value:
-						"There can be many reasons why the mod doesn't work, before reporting anything, make sure you aren't loading a save and instead starting a new game or starting a game with the `map` command in the portal 2 console. If this still doesn' t work then ask in <#1014238521139155064>.",
+						"There can be many reasons why the mod doesn't work, before reporting anything, make sure you aren't loading a save and instead starting a new game or starting a game with the `map` command in the portal 2 console. If this still doesn't work then ask in <#1014238521139155064>.",
 				}
 			);
 
