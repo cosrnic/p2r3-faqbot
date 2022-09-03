@@ -28,6 +28,10 @@ module.exports = {
 				{
 					name: "Where can I submit video ideas?",
 					value: "You don't. [p2r3.com/ideas](https://p2r3.com/ideas)."
+				},
+				{
+					name: "How do I get the Subscriber role?",
+					value: "You can get the Subscriber role by being a subscriber on [Twitch](https://p2r3.com/twitch). If you are already a Subscriber then make sure your Twitch account is connected to your Discord account. Not sure how to do that? Watch [this video](https://www.youtube.com/watch?v=iXKLrViR-Ak)."
 				}
 			);
 
